@@ -1,0 +1,1 @@
+# fastapi_inventory_management
